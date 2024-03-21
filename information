@@ -1,0 +1,37 @@
+DRF new project / Instagram Clone
+
+1. User Authentication
+    signup
+    login (signin)
+    logout
+    reset password
+    forget password
+    change password
+2. Posts
+    image
+    caption
+    likes
+    numbers likes
+
+3. Profile
+    username
+    firstname
+    lastname
+    email or phone number
+    profile photo
+    bio
+    change profile
+    following
+    followers
+    block
+4. Notification
+    follow
+    reply comment
+    friends new post
+
+5. Story
+    story
+    see story
+    story limit 24 hour
+
+
